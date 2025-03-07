@@ -222,5 +222,8 @@ def get_text(message):
         message_show(message)
 
 
-
+print("Lesson 2")
 bot.infinity_polling()
+
+
+print("hatesgfdgddx")
